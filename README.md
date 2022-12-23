@@ -12,14 +12,9 @@
 
 - 📫 How to reach me *swap769@gmail.com*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🌐 Socials:
 
-<a href="https://instagram.com/web.devcommunity" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram.png" alt="web.devcommunity" height="40" width="40" /></a> &nbsp;
-<a href="https://twitter.com/swap07746205" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="swap07746205" height="40" width="40" /></a> &nbsp;
-  <a href="https://linkedin.com/in/swapnil-shrivastava-bb5946194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil-shrivastava-bb5946194" height="30" width="40" /></a>
-<a href="https://github.com/swap769/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/github.png" alt="swap769" height="40" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-shrivastava-bb5946194) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/web.devcommunity) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_iamswap) 
 
 # 💻 Tech Stack:
 
