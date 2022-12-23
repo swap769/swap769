@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm  Swapnil Shrivastava
+<h1 align="center">### Hi there 👋 , I'm  Swapnil Shrivastava</h1>
 
 <h3>A passionate full stack developer from India</h3>
 
