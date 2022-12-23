@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swap769&title=Commit" alt="swap769" /></a> </p>
 
-- 🔭 I’m currently working on *Academic project*
+- 🔭 I’m currently working on *Asp.Net Core Project*
 
-- 🌱 I’m currently learning *Flutter & Next.js*
+- 🌱 I’m currently learning *Flutter & Asp.Net Core*
 
 - 📝 I regularly read articles on tech
 
