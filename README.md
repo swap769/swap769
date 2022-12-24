@@ -36,7 +36,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=swap769&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swap769&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
- #🏆 GitHub Trophies
+
+## 🏆 GitHub Trophies
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=swap769&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
