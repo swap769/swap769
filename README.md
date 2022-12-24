@@ -2,8 +2,7 @@
 
 <h3>A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swap769&title=Commit" alt="swap769" /></a> </p>
-
+# 💫 About Me:
 
 - 🔭 I’m currently working on *Asp.Net Core Project*
 
